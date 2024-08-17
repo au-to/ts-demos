@@ -1,5 +1,3 @@
-import { Asset } from "../../../node_modules/webpack/types";
-
 // 原始数据类型
 const str: String = '字符型';
 const number: Number = 1;
