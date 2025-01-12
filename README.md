@@ -1,2 +1,2 @@
 # ts-demos
-TypeScript学习笔记
+Learning notes for TypeScript.
